@@ -1,0 +1,39 @@
+.hero-bg {
+    margin: 5px;
+    height: 810px;
+    width: 100%;
+    background-color: #ee377d;
+    background: rgb(250, 166, 190);
+    background: linear-gradient(4deg, rgba(250, 166, 190, 1) 33%, rgba(239, 166, 229, 1) 73%, rgba(224, 166, 250, 1) 100%);
+    border-radius: 50px;
+    padding: 100px;
+}
+
+.hero-main-bg {
+    /* margin-top: 25px; */
+    background-color: #fff;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+    border-radius: 30px;
+    padding: 60px;
+    }
+
+.col-6 h2{
+    font-weight: 500;
+    text-decoration: underline 2px rgb(235, 118, 118);
+}
+.a-1,.a-2,.a-3,.a-4 {
+    display: none;
+    font-weight: 100;
+    color: #555;
+}
+
+.q-1,.q-2,.q-3,.q-4 {
+    font-weight: 600;
+}
+
+.col-6{
+    line-height: 40px ;
+    
+}
